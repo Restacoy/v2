@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6281328608503@s.whatsapp.net",
+    "ownerName": "Resta Femes",
+    "botName": "Resta Bot",
+    "footer": "Resta",
+    "sessionName": "kayy-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/resta.femes",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Resta Femes"
+    }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "#menu",
+    "count": 18
+  },
+  {
+    "nama": "#dashboard",
+    "count": 1
+  },
+  {
+    "nama": "#join",
+    "count": 1
+  },
+  {
+    "nama": "#owner",
+    "count": 2
+  },
+  {
+    "nama": "#kick",
+    "count": 2
+  },
+  {
+    "nama": "#antilink",
+    "count": 3
+  },
+  {
+    "nama": "#setwelcome",
+    "count": 1
+  },
+  {
+    "nama": "#welcome",
+    "count": 4
+  },
+  {
+    "nama": "#listbahasa",
+    "count": 1
+  },
+  {
+    "nama": "#translate",
+    "count": 2
+  },
+  {
+    "nama": "#addsewa",
+    "count": 5
+  },
+  {
+    "nama": "#play",
+    "count": 1
+  },
+  {
+    "nama": "#add",
+    "count": 3
+  },
+  {
+    "nama": "#ytmp3",
+    "count": 1
+  },
+  {
+    "nama": "#speed",
+    "count": 1
+  }
+]
